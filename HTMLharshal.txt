@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harshal Chaudhary</title>
+</head>
+<body>
+    <h1>This the first website made by me</h1>
+    <h2>This line inside h2</h2>
+    <h3>SOMETHING ABOUT HTML</h3>
+    <p>HTML stands for HyperText Markup Language and is the standard language for creating web pages, using tags to define the structure and content of web documents. It tells web browsers how to display elements like text, headings, paragraphs, and images, acting as the structural foundation of the web. While not a programming language, HTML is essential for web development, often combined with CSS for styling and JavaScript for interactivity to build complete web experiences. </p>
+    <!-- Your content goes here -->
+</body>
+</html>
